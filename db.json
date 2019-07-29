@@ -12,6 +12,7 @@
     "name": "typicode"
   }
   "users": [
-  {"id": 1, "profileName": "Kerolles Roshdi", "email": "kerollesroshdi@gmail.com", "userName": "kerollesroshdi", "password": "123", "address": "nasr city", "phoneNumber": "01011121314" } ]
+  {"id": 1, "profileName": "Kerolles Roshdi", "email": "kerollesroshdi@gmail.com", "userName": "kerollesroshdi", "password": "123", "address": "nasr city", "phoneNumber": "01011121314" } 
+  ]
   
 }
